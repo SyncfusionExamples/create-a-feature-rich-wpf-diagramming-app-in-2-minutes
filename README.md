@@ -1,5 +1,6 @@
 # Create a feature rich WPF Diagramming app in 2 Minutes
-A quick-start example to help you create a diagram builder app in WPF. You will learn how to add a Diagram and Diagram Ribbon to a WPF project, how to add Stencil and add shapes to the Diagram.
+
+This is a simple guide to help you quickly build a diagram builder app using WPF. In this example, you’ll learn how to add three main parts to your app: the Diagram, the Diagram Ribbon, and the Stencil. The Diagram is where users can draw and connect shapes. The Ribbon gives users tools to format and edit the diagram, like changing colors or adding text. The Stencil is a side panel that shows ready-made shapes, which users can drag and drop into the diagram. This guide shows you how to add these controls to your WPF project, set them up, and make them work together. By following the steps, you’ll be able to create a basic app where users can build flowcharts, network diagrams, or other visual layouts. It’s a great starting point for anyone who wants to add visual editing features to their desktop application using WPF and Syncfusion controls.
 
 Watch the video: Coming soon...
 
